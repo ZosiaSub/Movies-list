@@ -1,0 +1,17 @@
+#second-p {
+    font-weight: bold;
+}
+
+#changeP {
+    font-weight: bold;
+    font-size: 1em;
+    background: #31b0d5;
+    padding: 0.5em;
+}
+
+#changeColor {
+    font-weight: bold;
+    font-size: 1em;
+    background: #ad8f16;
+    padding: 0.5em;
+}

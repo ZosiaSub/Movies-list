@@ -2,215 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4810f8b2-ebc4-468c-b593-556aedb8a7d7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/images/LogoMovie.jpg" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/README.md" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/README.md" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/bootstrap-3.3.7-dist/js/npm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_1/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_1/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_1/homework_1.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/bootstrap/bootstrap.min.css" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/bootstrap/bootstrap.min.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/bootstrap/jquery.min.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/jquery.min.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/homework_10.md" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10.md" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/homework_10/JS/app.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10/JS/app.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/homework_10/images/LogoMovie.jpg" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10/images/LogoMovie.jpg" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/homework_10/index.html" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10/index.html" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_10/homework_10/style.css" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10/style.css" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/JS/addMovieForm.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/addMovieForm.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/JS/addNewMovieForm.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/addNewMovieForm.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/JS/app2.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/app2.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/JS/editMovieForm.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/editMovieForm.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/JS/movieRemoveForm.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/movieRemoveForm.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/JS/moviesList.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/moviesList.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/JS/store.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/store.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/bootstrap/bootstrap.min.css" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/bootstrap/bootstrap.min.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/bootstrap/jquery.min.js" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/jquery.min.js" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/homework_11.md" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/homework_11.md" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/images/LogoMovie.jpg" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10/images/LogoMovie.jpg" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/images/ex.11_3i_a.jpg" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/images/ex.11_3i_a.jpg" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/images/ex.11_3i_b_.jpg" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/images/ex.11_3i_b_.jpg" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/images/ex.11_3ii_a.jpg" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/images/ex.11_3ii_a.jpg" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/index2.html" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/index2.html" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_11/style.css" afterPath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/style.css" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/about_me.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/contact.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/gallery.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/homework_2.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/.picasa.ini" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/.picasaoriginals/.picasa.ini" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/.picasaoriginals/konie.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/.picasaoriginals/laka.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/.picasaoriginals/narty.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/.picasaoriginals/plaza.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/Zosia.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/bieganie.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/konie.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/laka.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/narty.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/plaza.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/images/rohn-1985334_1920.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_2/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/default.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/fonts.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/fonts/fontawesome-social-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/fonts/fontawesome-social-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/fonts/fontawesome-social-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/fonts/fontawesome-social-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/images/bg01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/images/pic01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/images/pic02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/images/pic03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/images/pic04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/images/pic05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid--solved/license.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/default.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/fonts.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/fonts/fontawesome-social-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/fonts/fontawesome-social-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/fonts/fontawesome-social-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/fonts/fontawesome-social-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/images/bg01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/images/pic01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/images/pic02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/images/pic03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/images/pic04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/images/pic05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex12_page-grid/license.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft--solved/default.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft--solved/fonts.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft--solved/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft--solved/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft--solved/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft--solved/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft--solved/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft--solved/images/pic01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft--solved/images/pic02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft--solved/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft--solved/license.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft/default.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft/fonts.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft/images/pic01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft/images/pic02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/ex13_pushleft/license.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_3/homework_3.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/bootstrap/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/bootstrap/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/bootstrap/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/bootstrap_ex13/images/LogoMovie.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/bootstrap_ex13/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/bootstrap_ex13/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_4/homework_4.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/homework_5.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js03--solved/css/qunit-2.0.1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js03--solved/js/app.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js03--solved/js/jquery-3.1.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js03--solved/js/qunit-2.0.1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js03--solved/test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js03/css/qunit-2.0.1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js03/js/app.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js03/js/jquery-3.1.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js03/js/qunit-2.0.1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js03/test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js04--solved/css/qunit-2.0.1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js04--solved/js/app.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js04--solved/js/jquery-3.1.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js04--solved/js/qunit-2.0.1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js04--solved/test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js04/css/qunit-2.0.1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js04/js/app.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js04/js/jquery-3.1.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js04/js/qunit-2.0.1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_5/js04/test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_6/Zadanie domowe JS.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_6/homework_6.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_6/js00-petle_tablice_i_funkcje/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_6/js00-petle_tablice_i_funkcje/js/app.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_6/js00-petle_tablice_i_funkcje/test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_7/app7.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_7/homework_7.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_7/index7.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_7/style7.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/bootstrap/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/bootstrap/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/bootstrap/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/homework_8/JS/app.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/homework_8/images/LogoMovie.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/homework_8/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_8/homework_8/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_9/app.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/homework_9/homework_9.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/.gitignore" afterPath="$PROJECT_DIR$/Movies-list/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/addMovieForm.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/JS/addMovieForm.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/addNewMovieForm.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/JS/addNewMovieForm.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/app2.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/JS/app2.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/editMovieForm.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/JS/editMovieForm.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/movieRemoveForm.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/JS/movieRemoveForm.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/moviesList.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/JS/moviesList.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/JS/store.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/JS/store.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/bootstrap.min.css" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/bootstrap/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/bootstrap.min.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/bootstrap/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/bootstrap/jquery.min.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/bootstrap/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/homework_11.md" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/homework_11.md" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/images/LogoMovie.jpg" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/images/LogoMovie.jpg" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/images/ex.11_3i_a.jpg" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/images/ex.11_3i_a.jpg" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/images/ex.11_3i_b_.jpg" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/images/ex.11_3i_b_.jpg" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/images/ex.11_3ii_a.jpg" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/images/ex.11_3ii_a.jpg" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/index2.html" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/index2.html" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-OOP-JS/style.css" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-OOP-JS/style.css" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/bootstrap.min.css" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/bootstrap/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/bootstrap.min.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/bootstrap/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/bootstrap/jquery.min.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/bootstrap/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10.md" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/homework_10.md" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10/JS/app.js" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/homework_10/JS/app.js" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10/images/LogoMovie.jpg" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/homework_10/images/LogoMovie.jpg" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10/index.html" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/homework_10/index.html" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10/style.css" afterPath="$PROJECT_DIR$/Movies-list/Movies-list-pureJS/homework_10/style.css" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/README.md" afterPath="$PROJECT_DIR$/Movies-list/README.md" />
+      <change beforePath="$PROJECT_DIR$/jfdzs1-homeworks/Start.md" afterPath="$PROJECT_DIR$/Movies-list/Start.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -224,8 +55,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="homework_10.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10.md">
+      <file leaf-file-name="homework_10.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Movies-list/Movies-list-pureJS/homework_10.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -237,10 +68,30 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="126">
+                <caret line="3" column="106" lean-forward="false" selection-start-line="3" selection-start-column="106" selection-end-line="3" selection-end-column="106" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -279,18 +130,18 @@
             <path>
               <item name="Movies-list" type="b2602c69:ProjectViewProjectNode" />
               <item name="Movies-list" type="462c0819:PsiDirectoryNode" />
-              <item name="jfdzs1-homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="Movies-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Movies-list" type="b2602c69:ProjectViewProjectNode" />
               <item name="Movies-list" type="462c0819:PsiDirectoryNode" />
-              <item name="jfdzs1-homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="Movies-list" type="462c0819:PsiDirectoryNode" />
               <item name="Movies-list-OOP-JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Movies-list" type="b2602c69:ProjectViewProjectNode" />
               <item name="Movies-list" type="462c0819:PsiDirectoryNode" />
-              <item name="jfdzs1-homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="Movies-list" type="462c0819:PsiDirectoryNode" />
               <item name="Movies-list-pureJS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -339,17 +190,18 @@
       <option name="presentableId" value="Default" />
       <updated>1518893100228</updated>
       <workItem from="1518893101407" duration="132000" />
-      <workItem from="1521754608486" duration="112000" />
+      <workItem from="1521754608486" duration="458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244000" />
+    <option name="totallyTimeSpent" value="590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24984026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24984026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -380,11 +232,22 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jfdzs1-homeworks/.idea/vcs.xml" />
-    <entry file="file://$PROJECT_DIR$/jfdzs1-homeworks/Movies-list-pureJS/homework_10.md">
+    <entry file="file://$PROJECT_DIR$/Movies-list/Movies-list-pureJS/homework_10.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="3" column="106" lean-forward="false" selection-start-line="3" selection-start-column="106" selection-end-line="3" selection-end-column="106" />
             <folding />
           </first_editor>
           <second_editor />

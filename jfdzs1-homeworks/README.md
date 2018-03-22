@@ -19,14 +19,14 @@ Za każde zadanie można uzyskać inną liczbę punktów
 ## [Jak zacząć pracę w domu](./Start.md)
 Tutaj znajdziesz tutorial jak rozpocząć pracę ze swoim repozytorium w domu
 
-## [Zadanie 11](./homework_11/homework_11.md)
+## [Zadanie 11](Movies-list-OOP-JS/homework_11.md)
 *Termin:* 12.02.2018
 
 *Opis:* Wykonanie zadanie zadania z użyciem języka programowania JS, programowanie obiektowe, JQuery.
 
 *Punktacja* 5 punktów podstawowych puls 2 za zadania dodatkowe
 
-## [Zadanie 10](./homework_10/homework_10.md)
+## [Zadanie 10](Movies-list-pureJS/homework_10.md)
 *Termin:* 28.01.2018
 
 *Opis:* Wykonanie zadanie zadania z użyciem języka programowania JS, użycie localStorage.

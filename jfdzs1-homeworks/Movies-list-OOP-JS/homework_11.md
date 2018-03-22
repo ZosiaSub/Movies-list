@@ -4,7 +4,7 @@
 Zadanie polega na zrealizowaniu następujących zadań:
 
 1. Zadanie wykonujemy w folderze *homework_11* na branchu {imie-nazwisko}
-1. W odpowiednim katalogu powinny zostać wykonane poniższe rozwiązania zadań, rozwinięcie zadania z listą filmów [*homework_10*](../homework_10/homework_10.md),
+1. W odpowiednim katalogu powinny zostać wykonane poniższe rozwiązania zadań, rozwinięcie zadania z listą filmów [*homework_10*](../Movies-list-pureJS/homework_10.md),
     1. **Przerobienie kodu, elementy oop:**
         1. Kod powinien być przerobiony analogicznie do zadań z *Programowania obiektowego*.
         1. Stwórz konstruktor do tworzenia obiektu filmu. Lista może zostać ograniczona do min 4 filmów.
